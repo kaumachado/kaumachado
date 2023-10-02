@@ -1,16 +1,19 @@
-### Hi there 👋
+## Bem-vindo(a) ao perfil de Kau Machado 
 
-<!--
-**kaumachado/kaumachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div>
+   <a href="https://github.com/kaumachado">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaumachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaumachado&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+    
+<div style="display: inline_block"><br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="center" alt="linux" height="30" width="40" 
+  <img src="https://cdn.jsdelivr.net/gh/devicon/icons/linux/linux-priginal.svg" />
+  <img align="center" alt="python" height="30" width="40" 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="vscode" height="30" width="40" 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  
+  </div>
+ 
